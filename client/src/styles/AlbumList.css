@@ -1,0 +1,12 @@
+.little {
+  width:100px;
+}
+
+.middle {
+  width:500px;
+}
+
+.carousel {
+  display:flex;
+  align-items:center;
+}
